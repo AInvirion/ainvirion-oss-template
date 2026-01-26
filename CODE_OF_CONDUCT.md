@@ -78,4 +78,4 @@ For questions or concerns about this Code of Conduct, contact:
 
 ---
 
-Copyright AInvirion
+Copyright © AInvirion

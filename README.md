@@ -83,4 +83,4 @@ If you discover a security vulnerability, please follow our [Security Policy](SE
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
-Copyright AInvirion
+Copyright © AInvirion
