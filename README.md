@@ -18,7 +18,6 @@
 - [Contributing](#contributing)
 - [Security](#security)
 - [License](#license)
-- [Contact](#contact)
 
 ## About
 
@@ -83,15 +82,5 @@ If you discover a security vulnerability, please follow our [Security Policy](SE
 ## License
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
-
-Copyright AInvirion
-
-## Contact
-
-- **Website**: [https://ainvirion.com](https://ainvirion.com)
-- **Email**: [contact@ainvirion.com](mailto:contact@ainvirion.com)
-- **GitHub**: [@ainvirion](https://github.com/ainvirion)
-
----
 
 Copyright AInvirion
