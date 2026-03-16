@@ -47,13 +47,14 @@ jobs:
         uses: actions/github-script@v7
         with:
           script: |
+            const contributor = process.env.CONTRIBUTOR;
             await github.rest.issues.createComment({
               owner: context.repo.owner,
               repo: context.repo.repo,
               issue_number: context.issue.number,
-              body: 'Thanks @' + process.env.CONTRIBUTOR + '! Your CLA signature has been recorded.
+              body: `Thanks @${contributor}! Your CLA signature has been recorded.
 
-@cla-bot check'
+@cla-bot check`
             });
         env:
           CONTRIBUTOR: ${{ github.event.comment.user.login }}
